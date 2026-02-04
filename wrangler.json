@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "52eec886-321a-464c-9708-df39499331a9",
+			"database_name": "warner_auth"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
